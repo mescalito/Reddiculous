@@ -14,8 +14,6 @@
 
 ![phone-showcase](https://github.com/mescalito/reddiculous/blob/main/landing2.png)
 
-![phone-options](https://github.com/mescalito/reddiculous/blob/main/landing3.jpg)
-
 
 ### Features
 
