@@ -614,13 +614,13 @@ function Posts({ setParam, setCommentsData, setPostLoad, liked = false }) {
           })}
 
           {!(post && id) && m_after && (
-            <img src="/reddiculous/spinner2.gif" width="100px" height="100px" />
+            <img src="/Reddiculous/spinner2.gif" width="100px" height="100px" />
           )}
           {m_after == null && "NOthing TO show"}
         </>
       ) : !(m_after == null) ? (
         !sessionStorage.getItem(storeData) && (
-          <img src="/reddiculous/spinner2.gif" width="100px" height="100px" />
+          <img src="/Reddiculous/spinner2.gif" width="100px" height="100px" />
         )
       ) : (
         "nothing to show"

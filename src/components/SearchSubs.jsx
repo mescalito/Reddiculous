@@ -82,7 +82,7 @@ function SearchSubs({ setPostLoad }) {
                     width: "-webkit-fill-available",
                     objectFit: "contain",
                   }}
-                  src="/reddiculous/spinner2.gif"
+                  src="/Reddiculous/spinner2.gif"
                   // width={50}
                   height={50}
                   alt="Loading..."
@@ -97,7 +97,7 @@ function SearchSubs({ setPostLoad }) {
                     width: "-webkit-fill-available",
                     objectFit: "contain",
                   }}
-                  src="/reddiculous/spinner2.gif"
+                  src="/Reddiculous/spinner2.gif"
                   // width={50}
                   height={100}
                   alt="Loading..."

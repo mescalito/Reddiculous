@@ -187,7 +187,7 @@ function Subreddit() {
                   src={
                     data.community_icon.replaceAll("amp;", "") ||
                     data.icon_img ||
-                    "/reddiculous/icon_big.png"
+                    "/Reddiculous/icon_big.png"
                   }
                 />
                 <div className="banner-subdata">
@@ -223,7 +223,7 @@ function Subreddit() {
                         image={
                           data.community_icon.replaceAll("amp;", "") ||
                           data.icon_img ||
-                          "/reddiculous/icon_big.png"
+                          "/Reddiculous/icon_big.png"
                         }
                       />
                     </div>
@@ -322,7 +322,7 @@ function Subreddit() {
         </div>
       ) : (
         <div className="container">
-          <img src="/reddiculous/spinner2.gif" width="100px" height="100px" />
+          <img src="/Reddiculous/spinner2.gif" width="100px" height="100px" />
         </div>
       )}
     </>

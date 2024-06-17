@@ -6,13 +6,13 @@
 
 **Reddiculous**, a Reddit client built with React that allows anonymous browsing, without using their API.
 
-> Site live at (https://mescalito.github.io/reddiculous/)
+> Site live at (https://mescalito.github.io/Reddiculous/)
 
 <br/>
 
-![theme](https://github.com/mescalito/reddiculous/blob/main/landing1.png)
+![theme](https://github.com/mescalito/Reddiculous/blob/main/landing1.png)
 
-![phone-showcase](https://github.com/mescalito/reddiculous/blob/main/landing2.png)
+![phone-showcase](https://github.com/mescalito/Reddiculous/blob/main/landing2.png)
 
 
 ### Features

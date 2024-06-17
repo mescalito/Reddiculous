@@ -7,6 +7,6 @@ export default defineConfig({
     host: true,
     port: 5173, // Optional, specify if you want a different port
   },
-  base: "/reddiculous/",
+  base: "/Reddiculous/",
   plugins: [react()],
 });

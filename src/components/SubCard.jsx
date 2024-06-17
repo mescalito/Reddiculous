@@ -28,7 +28,7 @@ function SubCard({ data, showJoinBtn = false }) {
           src={
             data.icon_img ||
             data.community_icon.replaceAll("amp;", "") ||
-            "/reddiculous/icon_big.png"
+            "/Reddiculous/icon_big.png"
           }
           width={40}
           height={40}
@@ -62,7 +62,7 @@ function SubCard({ data, showJoinBtn = false }) {
                 image={
                   data.icon_img ||
                   data.community_icon.replaceAll("amp;", "") ||
-                  "/reddiculous/icon_big.png"
+                  "/Reddiculous/icon_big.png"
                 }
               />
             )}
