@@ -10,9 +10,9 @@
 
 <br/>
 
-![theme](https://github.com/mescalito/reddiculous/assets/83769253/ac99e61b-9b6c-40a6-8520-ba62c79e81e6)
+![theme](https://github.com/mescalito/reddiculous/blob/main/landing1.png)
 
-![phone-showcase](https://github.com/mescalito/reddiculous/assets/83769253/b77c192f-769f-4f90-81b2-cead10c15d15)
+![phone-showcase](https://github.com/mescalito/reddiculous/blob/main/landing2.png)
 
 
 ### Features
